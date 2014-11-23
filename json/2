@@ -1,0 +1,11 @@
+{
+  "umiType": "Definition",
+  "prerequisiteDefinitions": ["0"],
+  "tags": [],
+  "ts": 1416759913686,
+  "titleSynonyms": ["Circle - Pointwise Metric Definition"],
+  "id": "2",
+  "title": "Circle",
+  "seeAlso": ["1"],
+  "latexContent": "2"
+}

@@ -1,0 +1,11 @@
+{
+  "umiType": "Definition",
+  "prerequisiteDefinitions": [],
+  "tags": [],
+  "ts": 1416759913687,
+  "titleSynonyms": ["Euclidean Distance"],
+  "id": "3",
+  "title": "Euclidean Metric",
+  "seeAlso": [],
+  "latexContent": "3"
+}

@@ -1,1 +1,0 @@
-$C \in \mathbb{R}^2$ is a {\bf circle} if and only if $C$ is {\id=0 non-empty}, for the {\id=3 Euclidean Metric} $d: \mathbb{R}^2 \rightarrow \mathbb{R}$, $\exists p \in \mathbb{R}^2$ such that $\forall x, y \in C, d(x, p) = d(y, p)$ and $\forall z \in \mathbb{R}^2$ if $\exists x \in C$ such that $d(x, p) = d(z, p)$ then $z \in C$.

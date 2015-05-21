@@ -1,0 +1,1 @@
+113292475659649136992	1432213358999	Initialise UMI	$\\forall x \\forall \\phi \\text{Var}(x) \\wedge \\text{Wff}(\\phi) \\rightarrow\n``\\exists x \\phi\" := ``\\neg \\forall x \\neg \\phi\"$

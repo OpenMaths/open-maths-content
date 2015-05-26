@@ -1,0 +1,1 @@
+113292475659649136992	1432573293817	Initialise UMI	$\\forall \\phi_1 \\forall \\phi_2 \\text{Wff}(\\phi_1) \\wedge \\text{Wff}(\\phi_2) \\rightarrow ``\\phi_1 \\vee \\phi_2\" := ``\\neg (\\neg \\phi_1 \\wedge \\neg \\phi_2)\"$

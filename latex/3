@@ -1,1 +1,1 @@
-113292475659649136992	1432209196724	Initialise UMI	$\\forall x \\forall \\phi \\text{Var}(x) \\wedge \\text{Wff}(\\phi)\n\\rightarrow \\{ x | \\phi \\} := ``::y::\\forall x (x \\in y \\leftrightarrow \\phi) ::\"$
+113292475659649136992	1432209196724	Initialise UMI	$\\forall x \\forall \\phi \\text{Var}(x) \\wedge \\text{Wff}(\\phi)\n\\rightarrow \\{ x | \\phi \\} := ``\\{ y \\text{ where } \\forall x (x \\in y \\leftrightarrow \\phi), \"$

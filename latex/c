@@ -1,1 +1,2 @@
 113292475659649136992	1432636257381	Initialise UMI	$\\forall x \\forall y \\text{Term}(x) \\wedge \\text{Term}(y) \\rightarrow x \\cup y := \\{ z | (z \\in x) \\vee (z \\in y) \\}$
+113292475659649136992	1445691068060	Initialise UMI	@@ -1,1 +1,1 @@\n-$\\forall x \\forall y \\text{Term}(x) \\wedge \\text{Term}(y) \\rightarrow x \\cup y := \\{ z | (z \\in x) \\vee (z \\in y) \\}$\n+$\\forall x \\forall y \\text{Term}(x) \\wedge \\text{Term}(y) \\rightarrow x \\cup y := \\{ z | z \\in x \\vee z \\in y \\}$

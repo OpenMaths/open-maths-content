@@ -1,1 +1,1 @@
-113292475659649136992	1451594312212	Initialise UMI	$\\forall \\phi \\forall \\psi \\text{Wff}(\\phi) \\wedge \\text{Wff}(\\psi) \\rightarrow \\text{Scheme}(``(\\phi \\wedge (\\phi \\rightarrow \\psi)) \\rightarrow \\psi\")$
+113292475659649136992	1451594312212	Initialise UMI	$\\forall \\phi \\forall \\psi \\text{Wff}(\\phi) \\wedge \\text{Wff}(\\psi) \\rightarrow \\text{Schema}(``(\\phi \\wedge (\\phi \\rightarrow \\psi)) \\rightarrow \\psi\")$

@@ -1,1 +1,1 @@
-113292475659649136992	1428091409202	Initialise UMI	$\\forall t_1 \\forall t_2 \\text{Term}(t_1) \\wedge \\text{Term}(t_2) \n \\rightarrow :=(``t_1 := t_2\", ``:=(t_1, t_2)\")$
+113292475659649136992	1456600610109	Initialise UMI	$\\forall t_1 \\forall t_2 \\text{Term}(t_1) \\wedge \\text{Term}(t_2) \n \\rightarrow :=(``t_1 := t_2\", ``:=(t_1, t_2)\")$

@@ -1,1 +1,1 @@
-113292475659649136992	1451258251803	Initialise UMI	$\\forall x \\forall y \\text{Var}(x) \\wedge \\text{Var}(y) \\rightarrow ``x \\subseteq y\" := ``\\forall z z \\in x \\rightarrow z \\in y\"$
+113292475659649136992	1456600613521	Initialise UMI	$\\forall x \\forall y \\text{Var}(x) \\wedge \\text{Var}(y) \\rightarrow ``x \\subseteq y\" := ``\\forall z z \\in x \\rightarrow z \\in y\"$

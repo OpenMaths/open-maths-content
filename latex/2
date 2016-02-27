@@ -1,1 +1,1 @@
-113292475659649136992	1456596968133	Initialise UMI	$\\forall t_1 \\forall t_2 \\text{Term}(t_1) \\wedge \\text{Term}(t_2) \\rightarrow \n``t_1 \\in t_2\" := ``\\in(t_1, t_2)\"$
+113292475659649136992	1428354967499	Initialise UMI	$\\forall t_1 \\forall t_2 \\text{Term}(t_1) \\wedge \\text{Term}(t_2) \\rightarrow \n``t_1 \\in t_2\" := ``\\in(t_1, t_2)\"$

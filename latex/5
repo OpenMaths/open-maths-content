@@ -1,1 +1,1 @@
-113292475659649136992	1456596968655	Initialise UMI	$\\forall y \\forall \\phi \\text{Var}(y) \\wedge \\text{Wff}(\\phi) \\rightarrow\n``\\exists y \\phi\" := ``\\neg \\forall y \\neg \\phi\"$
+113292475659649136992	1432213358999	Initialise UMI	$\\forall y \\forall \\phi \\text{Var}(y) \\wedge \\text{Wff}(\\phi) \\rightarrow\n``\\exists y \\phi\" := ``\\neg \\forall y \\neg \\phi\"$

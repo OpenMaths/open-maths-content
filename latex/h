@@ -1,1 +1,1 @@
-113292475659649136992	1446298444121	Initialise UMI	$\\forall t_1 \\forall t_2 \\text{Term}(t_1) \\wedge \\text{Term}(t_2) \n\\rightarrow ``t_1 \\notin t_2\" := ``\\neg t_1 \\in t_2\"$
+113292475659649136992	1456596970187	Initialise UMI	$\\forall t_1 \\forall t_2 \\text{Term}(t_1) \\wedge \\text{Term}(t_2) \n\\rightarrow ``t_1 \\notin t_2\" := ``\\neg t_1 \\in t_2\"$

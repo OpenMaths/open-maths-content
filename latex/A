@@ -1,1 +1,1 @@
-102372194668606698897	1454761543065	Initialise UMI	$\\forall x  \\forall y \\forall \\mathbb{P} \\text{Var}(x) \\wedge \\text{Var}(y) \\wedge \\text{Term}(\\mathbb{P}) \\rightarrow ``\\mathbb{P}(y)\" := ``\\forall x x \\subseteq y \\rightarrow x \\in \\mathbb{P}\"$
+102372194668606698897	1456596973123	Initialise UMI	$\\forall x  \\forall y \\forall \\mathbb{P} \\text{Var}(x) \\wedge \\text{Var}(y) \\wedge \\text{Term}(\\mathbb{P}) \\rightarrow ``\\mathbb{P}(y)\" := ``\\forall x x \\subseteq y \\rightarrow x \\in \\mathbb{P}\"$

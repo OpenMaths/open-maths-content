@@ -1,0 +1,1 @@
+113292475659649136992	1460801706291	Auto generated theorem from proof.	$\\forall \\phi \\text{Wff}(\\phi) \\rightarrow \\text{Schema}(``(\\neg \\phi \\rightarrow \\neg \\neg \\phi) \\rightarrow \\phi\")$

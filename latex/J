@@ -1,0 +1,1 @@
+113292475659649136992	1458677282632	Auto generated theorem from proof.	$\\forall \\phi \\forall \\psi \\forall \\gamma \\text{Wff}(\\phi) \\wedge \\text{Wff}(\\psi) \\wedge \\text{Wff}(\\gamma) \\rightarrow \\text{Schema}(``(\\psi \\rightarrow \\gamma) \\rightarrow ((\\phi \\rightarrow \\psi) \\rightarrow (\\phi \\rightarrow \\gamma))\")$

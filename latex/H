@@ -1,0 +1,1 @@
+113292475659649136992	1458673783886	Initialise UMI	$\\forall \\phi \\forall \\psi \\forall \\gamma \\text{Wff}(\\phi) \\wedge \\text{Wff}(\\psi) \\wedge \\text{Wff}(\\gamma) \n\\rightarrow ``\\text{Ax2}_{ \\phi, \\psi, \\gamma }\" := ``(\\phi \\rightarrow (\\psi \\rightarrow \\gamma)) \\rightarrow ((\\phi \\rightarrow \\psi) \\rightarrow (\\phi \\rightarrow \\gamma))\"$

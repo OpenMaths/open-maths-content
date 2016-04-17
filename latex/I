@@ -1,0 +1,1 @@
+113292475659649136992	1458675495337	Initialise UMI	$\\forall \\phi \\forall \\psi \\forall \\gamma \\text{Wff}(\\phi) \\wedge \\text{Wff}(\\psi) \\wedge \\text{Wff}(\\gamma) \n\\rightarrow ``\\text{Lu1}_{ \\phi, \\psi, \\gamma }\" := ``(\\psi \\rightarrow \\gamma) \\rightarrow ((\\phi \\rightarrow \\psi) \\rightarrow (\\phi \\rightarrow \\gamma))\"$

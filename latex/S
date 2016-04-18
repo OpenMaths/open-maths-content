@@ -1,0 +1,1 @@
+113292475659649136992	1460916425650	Initialise UMI	$\\forall \\phi \\forall \\psi \\text{Wff}(\\phi) \\wedge \\text{Wff}(\\psi) \\rightarrow ``Q_{\\phi, \\psi}\" := ``(\\phi \\rightarrow (\\neg \\psi \\rightarrow \\phi)) \\rightarrow (\\phi \\rightarrow \\psi)\"$

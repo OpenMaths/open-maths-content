@@ -1,0 +1,1 @@
+102372194668606698897	1492188768243	Initialise UMI	$\\forall \\phi \\forall \\psi \\text{Wff}(\\phi) \\wedge \\text{Wff}(\\psi) \\rightarrow ``C_{\\phi, \\psi}\" := ``(\\neg \\psi \\rightarrow (\\neg \\neg \\phi \\rightarrow \\neg \\psi))\"$
